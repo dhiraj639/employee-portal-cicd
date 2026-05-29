@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+
+  employee-portal:
+
+    build: .
+
+    container_name: employee-portal
+
+    ports:
+      - "3000:3000"
+
+    restart: always
