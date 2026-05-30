@@ -1,6 +1,7 @@
 \# Employee Portal CI/CD
 
 
+NOTE: I FIXED EVERYTHING USING JUST AGENT DEV LOL!
 
 Node.js application for Jenkins CI/CD practice.
 
